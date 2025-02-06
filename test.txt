@@ -1,0 +1,3 @@
+Hi There!
+I am trying to practice python's file handling. So it gets easy to get caught in Python tutorials
+Python snakes and python language is not the same.
